@@ -1,0 +1,29 @@
+product_id,product_name,category,price,stock_quantity
+2001,Wireless Headphones,Electronics,14176,458
+2002,Bluetooth Speaker,Electronics,6123,362
+2003,Smart Watch,Electronics,1158,388
+2004,Wireless Mouse,Electronics,1219,392
+2005,Mechanical Keyboard,Electronics,14912,289
+2006,Power Bank,Electronics,9541,275
+2007,USB-C Cable,Electronics,6348,221
+2008,T-Shirt,Clothing,9662,249
+2009,Jeans,Clothing,7506,343
+2010,Hoodie,Clothing,10324,182
+2011,Jacket,Clothing,712,274
+2012,Sneakers,Clothing,5969,79
+2013,Formal Shirt,Clothing,12491,461
+2014,Table Lamp,Home,8075,87
+2015,Bedsheet,Home,11936,98
+2016,Coffee Mug,Home,4908,216
+2017,Wall Clock,Home,13989,244
+2018,Storage Box,Home,5205,29
+2019,Python Programming,Books,6828,164
+2020,Data Engineering,Books,9451,467
+2021,Machine Learning,Books,14507,194
+2022,Database Systems,Books,9883,417
+2023,Artificial Intelligence,Books,12353,313
+2024,Yoga Mat,Fitness,8068,104
+2025,Dumbbells,Fitness,14702,289
+2026,Resistance Band,Fitness,13128,424
+2027,Skipping Rope,Fitness,12324,113
+2028,Gym Gloves,Fitness,8157,182
